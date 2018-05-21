@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\EF_DAL\BLL\obj\Debug\BLL1.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\EF_DAL\BLL\obj\Debug\BLL1.csproj.CoreCompileInputs.cache
